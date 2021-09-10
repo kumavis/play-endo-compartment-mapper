@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@ethereumjs/common": "^2.4.0",
+    "@ethereumjs/tx": "^3.3.0",
+    "@metamask/logo": "^3.0.1",
+    "buffer": "^6.0.3",
+    "colors": "^1.4.0",
+    "cowsay": "^1.5.0",
+    "ethereumjs-util": "^7.1.0",
+    "ethereumjs-wallet": "^1.0.1",
+    "rlp": "^2.2.6"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.8",
+    "browserify": "^17.0.0"
+  }
+}
